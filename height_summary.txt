@@ -1,0 +1,119 @@
+--- Men's Swimming ---
+
+Average Height: 71.23 in
+
+Top 5 Tallest:
+                Name  Height
+         Tyson Upton    79.0
+       Colton Grimes    78.0
+          Eric Kroon    77.0
+Domantas  Tarnauskas    77.0
+       Adam Szczerba    76.0
+
+Top 5 Shortest:
+           Name  Height
+Miles Fleischer    63.0
+   Eric Mayzlin    65.0
+    Samuel Liao    65.0
+      Stuart Xu    65.0
+    Wyatt Kurtz    65.0
+
+Tallest (Exact Matches):
+       Name  Height
+Tyson Upton    79.0
+
+Shortest (Exact Matches):
+           Name  Height
+Miles Fleischer    63.0
+
+
+--- Women's Swimming ---
+
+Average Height: 65.75 in
+
+Top 5 Tallest:
+             Name  Height
+   McKenzie Fazio    74.0
+  Maja Piotrowicz    73.0
+Ayatallah Elkotby    72.0
+  Kornelia Buszka    71.0
+  Bianka Bukovics    71.0
+
+Top 5 Shortest:
+             Name  Height
+      Nakia Usher    58.0
+      Julia Wyman    58.0
+Melanie Rodriguez    59.0
+       Asha Besaw    61.0
+       Amanda Lee    61.0
+
+Tallest (Exact Matches):
+          Name  Height
+McKenzie Fazio    74.0
+
+Shortest (Exact Matches):
+       Name  Height
+Nakia Usher    58.0
+Julia Wyman    58.0
+
+
+--- Men's Volleyball ---
+
+Average Height: 71.21 in
+
+Top 5 Tallest:
+            Name  Height
+Joaquin Calderon    80.0
+  Annes Deljanin    79.0
+     Wyatt Kotuk    78.0
+     Adam Bainey    77.0
+       Jason Lin    77.0
+
+Top 5 Shortest:
+                   Name  Height
+           Levi Rosario    64.0
+Joseph Gianfranco Teves    65.0
+        Dion  Csikortos    65.0
+            Ali Zandani    66.0
+      Eugene  Villarruz    66.0
+
+Tallest (Exact Matches):
+            Name  Height
+Joaquin Calderon    80.0
+
+Shortest (Exact Matches):
+        Name  Height
+Levi Rosario    64.0
+
+
+--- Women's Volleyball ---
+
+Average Height: 68.11 in
+
+Top 5 Tallest:
+          Name  Height
+ Maya Angelova      75
+    Molly Boyd      75
+Sophia Kruczko      75
+  Alyssa Daley      75
+Marin Freeland      74
+
+Top 5 Shortest:
+            Name  Height
+    Jasmine Dias      59
+   Jasmine  Vega      61
+  Nourhan Hadjeb      61
+   Libby Nickels      61
+Izabella De Lima      61
+
+Tallest (Exact Matches):
+          Name  Height
+ Maya Angelova      75
+Sophia Kruczko      75
+    Molly Boyd      75
+  Alyssa Daley      75
+
+Shortest (Exact Matches):
+        Name  Height
+Jasmine Dias      59
+
