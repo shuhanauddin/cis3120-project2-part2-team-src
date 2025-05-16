@@ -1,0 +1,5 @@
+# cis3120-project2-part2-team-src
+Program for part 2 of project 2
+For this this question we compared the average heights of college swimmers and volleyball players by scraping athlete roster data from college websites. Ramsil Perez extractd and analyzed height data from men’s and women’s swimming and volleyball teams across multiple schools and saved the data in a csv files. Shuhana Uddin created the python script and deliverables for the bar graph showing height distribution by category.
+
+This type of problem is useful in collecting clean, analyzing, vizualizing and comparing real world data. It also helps develop analytical skills by using python to calculate averages and identifying patterns like who’s the tallest/shortest between genders in sports. This problem also sharpens our ability to interpret quantitative information by transforming raw data into visuals.
