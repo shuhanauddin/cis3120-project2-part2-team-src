@@ -73,7 +73,7 @@ def scrape_roster(url, school):
         for h in height_tags:
             raw = h.get_text(strip=True)
             heights.append(convert_height(raw))
-        return pd.DataFrame({'Name': names[:len(heights)], 'Height': heights, 'School': school})
+        return pd.DataFrame({'Name': names[:len(heights)], 'Height (in.)': heights, 'School': school})
     except Exception as e:
         print(f"Error scraping {url} for {school}: {e}")
         return pd.DataFrame()
